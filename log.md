@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 08, 2018
-##### (delete me or comment me out)
 
-**Today's Progress**: Setting up Reactjs enviroment,
+**Today's Progress**: Setting up Reactjs enviroment, reading about props, states, events, and webpack. Omg a lot of things I learned today.
 
 **Thoughts:** I'm very begginer on javascript world, so I want to learn a lot about the language and when this challange was over, I need to be a good programmer, and web developer. Now I'm reading some blog posts very interesting like that: [Ten Things javascript](https://benmccormick.org/2017/07/19/ten-things-javascript/) 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** Nothing for while.
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
