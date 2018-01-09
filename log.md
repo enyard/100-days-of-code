@@ -6,7 +6,13 @@
 
 **Thoughts:** I'm very begginer on javascript world, so I want to learn a lot about the language and when this challange was over, I need to be a good programmer, and web developer. Now I'm reading some blog posts very interesting like that: [Ten Things javascript](https://benmccormick.org/2017/07/19/ten-things-javascript/) 
 
-**Link to work:** Nothing for while.
+### Day 1: January 09, 2018
+
+**Today's Progress**: I Coded a very simple Hello World with Reactjs, and practice Js Strings, Arrays and another stuffs on [CodeWars](https://www.codewars.com/dashboard) a very interesting website that I found. And also read some articles about React.
+
+**Thoughts:** I'm very excited becouse I'll start a online course about Javascript tomorrow on Udemy, and I found a very good website to practice to code [CodeWars](https://www.codewars.com/dashboard). With React for now the things are very slowly I've spent a lot of time thinking in what project to do, but I dont started anything today, maybe tomorrow I start some basic project.
+
+<!--**Link to work:** Nothing for while.-->
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
